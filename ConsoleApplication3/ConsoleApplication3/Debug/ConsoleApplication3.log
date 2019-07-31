@@ -1,0 +1,4 @@
+﻿  Primitives.cpp
+d:\opengl_pro\done_sb5\consoleapplication3\consoleapplication3\primitives\primitives.cpp(80): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication3.vcxproj -> D:\opengl_pro\done_sb5\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> D:\opengl_pro\done_sb5\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)

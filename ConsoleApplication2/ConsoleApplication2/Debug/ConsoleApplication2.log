@@ -1,0 +1,9 @@
+﻿  Bounce.cpp
+    正在创建库 D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\ConsoleApplication2.lib 和对象 D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\ConsoleApplication2.exp
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLBatch.obj)”或在“D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(glew.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(glew.obj)”或在“D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLShaderManager.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLShaderManager.obj)”或在“D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTools.obj)”或在“D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTriangleBatch.obj)”或在“D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ConsoleApplication2.vcxproj -> D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\opengl_pro\done_sb5\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
